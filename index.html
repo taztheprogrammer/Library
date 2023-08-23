@@ -14,7 +14,15 @@
     <div id="library">
     </div>
     <div id="cardForm">
-        <input type="number" required id="valueInput">
+        <input type="text" required id="titleInput" placeholder="Title">
+        <input type="text" required id="authorInput" placeholder="Author">
+        <label><input type="number" required id="numberInput" >Pages</label>
+        <label for="radio-yes">
+            <input required type="radio" name="didRead" id="radio-yes">Read - Yes
+        </label>
+        <label for="radio-no">
+            <input required type="radio" name="didRead" id="radio-no">Read - No
+        </label>
         <button type="submit" id="submit">SUBMIT</button>
         <button id="close">CLOSE</button>
     </div>
