@@ -1,7 +1,7 @@
 <h1>Etch-A-Sketch</h1>
 <p>Second Project I made that uses JavaScript, CSS and HTML<br>This project was part of The Odin Project cirriculum</p>
 
-<img src='./Library-Screenshot.png'>
+<img src='./img/Library-Screenshot.png'>
 
 <h2><a href="https://taztheprogrammer.github.io/Etch-a-Sketch/">Website Preview Here</a></h2>
 #must change this
