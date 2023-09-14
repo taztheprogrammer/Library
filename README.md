@@ -4,7 +4,6 @@
 <img src='./img/Library-Screenshot.png'>
 
 <h2><a href="https://taztheprogrammer.github.io/Etch-a-Sketch/">Website Preview Here</a></h2>
-#must change this
 
 <h2 style="text-align: center">Features</h2>
 <ul>
